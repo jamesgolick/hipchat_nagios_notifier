@@ -1,0 +1,4 @@
+#!/usr/bin/env ruby
+
+require "hipchat_nagios_notifier"
+HipchatNagiosNotifier::CLI.start
